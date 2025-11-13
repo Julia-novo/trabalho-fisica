@@ -99,11 +99,11 @@ main {
 .mais-aplicacoes {
     margin-top: 3rem;
     text-align: center;
+    color: white;
 }
 
 .mais-aplicacoes h3 {
     font-size: 1.8rem;
-    color: #333;
     margin-bottom: 1rem;
 }
 
